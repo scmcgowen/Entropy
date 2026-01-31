@@ -1,3 +1,7 @@
+> [!NOTE]
+> This fork is maintained by Herr Katze, only for 1.20.1.
+> The intent of this fork is to bring support for rcc-chatbox integration
+
 # Entropy: Chaos Mod
 Entropy is a Chaos Mod where random events happen every 30 seconds. The events are selected randomly from a pool of near 150 (and growing) events that can be anything from meteor rain, physics changes and much more.
 
